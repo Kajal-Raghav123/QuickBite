@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuickBite/static/css/main.3ed1ce27.chunk.css",
+    "main.js": "/QuickBite/static/js/main.3974f05e.chunk.js",
+    "main.js.map": "/QuickBite/static/js/main.3974f05e.chunk.js.map",
+    "runtime~main.js": "/QuickBite/static/js/runtime~main.35f981b0.js",
+    "runtime~main.js.map": "/QuickBite/static/js/runtime~main.35f981b0.js.map",
+    "static/js/2.5c14dd04.chunk.js": "/QuickBite/static/js/2.5c14dd04.chunk.js",
+    "static/js/2.5c14dd04.chunk.js.map": "/QuickBite/static/js/2.5c14dd04.chunk.js.map",
+    "index.html": "/QuickBite/index.html",
+    "precache-manifest.09167446e7216e68855a1e6b600808ce.js": "/QuickBite/precache-manifest.09167446e7216e68855a1e6b600808ce.js",
+    "service-worker.js": "/QuickBite/service-worker.js",
+    "static/css/main.3ed1ce27.chunk.css.map": "/QuickBite/static/css/main.3ed1ce27.chunk.css.map"
+  }
+}
